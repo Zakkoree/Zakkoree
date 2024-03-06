@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=linux,idea,java,kubernetes,docker,hibernate,gradle,html,css,js,cloudflare,git,discord,nginx,redis,py,md,mysql,postgres,stackoverflow,jenkins,vscode&perline=50"/>
 </p> -->
 ![Snake animation](https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/output/github-contribution-grid-snake.svg)
-![Snake animation](https://github.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake-dark.svg)
 
 
 <!-- 个人资料徽标 -->
@@ -36,7 +36,7 @@
 
 <!-- 贪吃蛇代码贡献图 -->
 <!-- <p align="center"><img src="https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/github-contribution-grid-snake.svg"/></p> -->
-![Snake animation](https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/output/github-contribution-grid-snake.svg)
+![Snake animation](https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/github-contribution-grid-snake.svg)
 
 #  🙋 Hello <img width="80px" src="https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/Handshake.gif"/> <sub><img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/><sub>
 
