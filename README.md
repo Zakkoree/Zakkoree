@@ -8,7 +8,8 @@
 <!-- <p align="center">
     <img src="https://skillicons.dev/icons?i=linux,idea,java,kubernetes,docker,hibernate,gradle,html,css,js,cloudflare,git,discord,nginx,redis,py,md,mysql,postgres,stackoverflow,jenkins,vscode&perline=50"/>
 </p> -->
-
+![Snake animation](https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake.svg)
 
 
 <!-- 个人资料徽标 -->
