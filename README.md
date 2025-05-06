@@ -119,7 +119,8 @@
 
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Zakkoree">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Zakkoree&theme=dark)](https://git.io/streak-stats)
+
 
 <!-- GitHub 语言占比 -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakkoree&layout=compact&hide_border=true"/> -->
