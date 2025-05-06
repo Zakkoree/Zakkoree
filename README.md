@@ -114,11 +114,8 @@
 
 <!-- GitHub 统计卡片 -->
 <!-- <img align="right" width="46%" src="https://streak-stats.demolab.com/?user=Zakkoree&sideNums=5194F0&currStreakNum=5194F0"/> -->
-<a href="#"><img src="https://streak-stats.demolab.com?user=Zakkoree" alt="GitHub Streak" /></a>
 
-    <img src="https://github-readme-stats.vercel.app/api?username=Zakkoree">
-
-
+<img  width="46%" src="https://github-readme-stats.vercel.app/api?username=Zakkoree">
 
 <!-- GitHub 语言占比 -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakkoree&layout=compact&hide_border=true"/> -->
