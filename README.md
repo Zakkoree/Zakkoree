@@ -114,7 +114,7 @@
 
 <!-- GitHub 统计卡片 -->
 <img align="right" width="46%" src="https://streak-stats.demolab.com/?user=Zakkoree&sideNums=5194F0&currStreakNum=5194F0"/>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Zakkoree">
 
 <!-- GitHub 语言占比 -->
