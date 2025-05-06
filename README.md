@@ -20,7 +20,7 @@
     <a href="https://www.facebook.com/profile.php?id=100086466722875ii/"><img src="https://img.shields.io/badge/facebook--003472?style=social&logo=facebook"></a>&emsp;
     <a href="https://www.youtube.com/channel/UCalx4r-nFgzYoeIVXi8b0Og"><img src="https://img.shields.io/badge/youtube--c32136?style=social&logo=youtube"></a>&emsp;
     <!-- <a href="https://space.bilibili.com/88005327/"><img src="https://img.shields.io/badge/bilibili--ff69b4?style=social&logo=bilibili"></a>&emsp; -->
-    <a href="https://discord.gg/qEZtdG62ZW"><img src="https://img.shields.io/badge/discord--blue?style=social&logo=discord"></a>&emsp;
+<!--     <a href="https://discord.gg/qEZtdG62ZW"><img src="https://img.shields.io/badge/discord--blue?style=social&logo=discord"></a>&emsp; -->
 </div>
 
 <!-- 动态打字效果 -->
