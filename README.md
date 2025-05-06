@@ -20,14 +20,13 @@
     <a href="https://www.facebook.com/profile.php?id=100086466722875ii/"><img src="https://img.shields.io/badge/facebook--003472?style=social&logo=facebook"></a>&emsp;
     <a href="https://www.youtube.com/channel/UCalx4r-nFgzYoeIVXi8b0Og"><img src="https://img.shields.io/badge/youtube--c32136?style=social&logo=youtube"></a>&emsp;
     <!-- <a href="https://space.bilibili.com/88005327/"><img src="https://img.shields.io/badge/bilibili--ff69b4?style=social&logo=bilibili"></a>&emsp; -->
-<!--     <a href="https://discord.gg/qEZtdG62ZW"><img src="https://img.shields.io/badge/discord--blue?style=social&logo=discord"></a>&emsp; -->
+    <!-- <a href="https://discord.gg/qEZtdG62ZW"><img src="https://img.shields.io/badge/discord--blue?style=social&logo=discord"></a>&emsp; -->
 </div>
 
 <!-- 动态打字效果 -->
 <!-- <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=900&lines=💻+console.log(%22Hello%2C%20World!%22);👋Hi+there,I'm+Zakkoree" alt="Typing SVG"/></a>
+  <!-- <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=900&lines=💻+console.log(%22Hello%2C%20World!%22);👋Hi+there,I'm+Zakkoree" alt="Typing SVG"/></a> -->
 </div> -->
 <div align="center">
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=900&lines=console.log(%22Hello%2C%20World!%22);👋Hi+there,I'm+Zakkoree" alt="Typing SVG"/></a>
