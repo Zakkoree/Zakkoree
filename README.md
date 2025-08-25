@@ -11,15 +11,15 @@
 
 <!-- 个人资料徽标 -->
 
-<div align="center"  hidden="true"> 
+<div align="center"> 
     <!-- <a href="https://gitee.com/Zakkoree"><img src="https://img.shields.io/badge/gitee--blue?style=social&logo=gitee"></a>&emsp; -->
     <!-- <a href="#"><img src="https://img.shields.io/badge/Website--blue?style=social&logo=Embarcadero"></a>&emsp; -->
-    <a href="mailto:zdy.mail@foxmail.com"><img src="https://img.shields.io/badge/email--blue?style=social&logo=mail.ru"></a>&emsp;
-    <a href="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/WeChat.jpg"><img src="https://img.shields.io/badge/WeChat--blue?style=social&logo=WeChat"></a>&emsp;
-    <a href="https://t.me/Zakkoree"><img src="https://img.shields.io/badge/telegram--blue?style=social&logo=telegram"></a>&emsp; 
-    <a href="https://twitter.com/MZakkoree"><img src="https://img.shields.io/badge/twitter--blue?style=social&logo=twitter"></a>&emsp;
-    <a href="https://www.facebook.com/profile.php?id=100086466722875ii/"><img src="https://img.shields.io/badge/facebook--003472?style=social&logo=facebook"></a>&emsp;
-    <a href="https://www.youtube.com/channel/UCalx4r-nFgzYoeIVXi8b0Og"><img src="https://img.shields.io/badge/youtube--c32136?style=social&logo=youtube"></a>&emsp;
+    <!-- <a href="mailto:zdy.mail@foxmail.com"><img src="https://img.shields.io/badge/email--blue?style=social&logo=mail.ru"></a>&emsp; -->
+    <!-- <a href="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/WeChat.jpg"><img src="https://img.shields.io/badge/WeChat--blue?style=social&logo=WeChat"></a>&emsp; -->
+    <!-- <a href="https://t.me/Zakkoree"><img src="https://img.shields.io/badge/telegram--blue?style=social&logo=telegram"></a>&emsp;  -->
+    <!-- <a href="https://twitter.com/MZakkoree"><img src="https://img.shields.io/badge/twitter--blue?style=social&logo=twitter"></a>&emsp; -->
+    <!-- <a href="https://www.facebook.com/profile.php?id=100086466722875ii/"><img src="https://img.shields.io/badge/facebook--003472?style=social&logo=facebook"></a>&emsp; -->
+    <!-- <a href="https://www.youtube.com/channel/UCalx4r-nFgzYoeIVXi8b0Og"><img src="https://img.shields.io/badge/youtube--c32136?style=social&logo=youtube"></a>&emsp; -->
     <!-- <a href="https://space.bilibili.com/88005327/"><img src="https://img.shields.io/badge/bilibili--ff69b4?style=social&logo=bilibili"></a>&emsp; -->
     <!-- <a href="https://discord.gg/qEZtdG62ZW"><img src="https://img.shields.io/badge/discord--blue?style=social&logo=discord"></a>&emsp; -->
  </div>
