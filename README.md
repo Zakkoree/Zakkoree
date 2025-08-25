@@ -26,7 +26,7 @@
 
 
 <!-- 动态打字效果 -->
-<!-- <div align="center">
+<div align="center">
   <a href="#"><img src="https://readme-typing-svg.demolab.com?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira+Code&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=900&lines=💻+console.log(%22Hello%2C%20World!%22);👋Hi+there,I'm+Zakkoree" alt="Typing SVG"/></a>
 </div> -->
 <div align="center">
