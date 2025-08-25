@@ -10,6 +10,7 @@
 </p> -->
 
 <!-- 个人资料徽标 -->
+<!-- 
 <div align="center">
     <!-- <a href="https://gitee.com/Zakkoree"><img src="https://img.shields.io/badge/gitee--blue?style=social&logo=gitee"></a>&emsp; -->
     <!-- <a href="#"><img src="https://img.shields.io/badge/Website--blue?style=social&logo=Embarcadero"></a>&emsp; -->
@@ -22,6 +23,7 @@
     <!-- <a href="https://space.bilibili.com/88005327/"><img src="https://img.shields.io/badge/bilibili--ff69b4?style=social&logo=bilibili"></a>&emsp; -->
     <!-- <a href="https://discord.gg/qEZtdG62ZW"><img src="https://img.shields.io/badge/discord--blue?style=social&logo=discord"></a>&emsp; -->
 </div>
+-->
 
 <!-- 动态打字效果 -->
 <!-- <div align="center">
