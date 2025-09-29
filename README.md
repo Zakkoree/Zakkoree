@@ -110,7 +110,7 @@
 <!-- <div align="center"><a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a></div>  -->
 
 <!-- https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/header.png -->
-![MasterHead](https://cdn.jsdelivr.net/gh/Zakkoree/FileDrive/images/picgo/2024/03/06/17-34-43-dasd-a8f798.png)
+![MasterHead](https://tucu.668681.xyz/2025/09/d7a0e07686e15945172b31787f08ce77.png)
 
 # 🚀 Actions
 
