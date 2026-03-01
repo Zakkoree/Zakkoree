@@ -115,7 +115,8 @@
 # 🚀 Actions
 
 <!-- GitHub 统计卡片 -->
-<img align="center" width="46%" src="https://streak-stats.demolab.com/?user=Zakkoree&sideNums=5194F0&currStreakNum=5194F0"/>
+<img align="center" width="100%" src="https://streak-stats.demolab.com/?user=Zakkoree&sideNums=5194F0&currStreakNum=5194F0"/>
+<!-- <img align="center" width="46%" src="https://streak-stats.demolab.com/?user=Zakkoree&sideNums=5194F0&currStreakNum=5194F0"/> -->
 
 <!-- <img  width="46%" src="https://github-readme-stats.vercel.app/api?username=Zakkoree"> -->
 
